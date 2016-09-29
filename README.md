@@ -1,4 +1,5 @@
-# vRate nudity detection API, see https://vrate.net for a live demo 
+# vRate nudity detection API
+see https://vrate.net for a live demo 
 
 vRate - Media rating API applies the latest advances in computer vision and artificial intelligence to detect nudity, pornography and racy/provocative content in images.  Integrate this API into your application to instantly moderate images and protect your brand
 
