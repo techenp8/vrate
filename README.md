@@ -21,9 +21,9 @@ RatingDescription: Description of rating
 Confidence: The confidence of the generated rating
 
 The rating code and description can be interpreted as follows:
-V01: Safe, OK - Implies that inappropriate content was not detected in the image
-V02: Provocative, Racy - Image may contain subjects with skimpy clothing, partial nudity, excessive skin exposure or provocative poses
-V03: Adult, Nudity - Image may contain explicit nudity, pornography or NSFW content
++V01: Safe, OK - Implies that inappropriate content was not detected in the image
++V02: Provocative, Racy - Image may contain subjects with skimpy clothing, partial nudity, excessive skin exposure or provocative poses
++V03: Adult, Nudity - Image may contain explicit nudity, pornography or NSFW content
 
 #### Example of output on successful execution:
     {"RatingCode": "V02",
