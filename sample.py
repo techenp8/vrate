@@ -5,7 +5,7 @@ import base64
 
 #globals
 vrate_api = "https://api2.vrate.net/nudityrating"
-vrate_headers = {"X-Auth":"<use authorization key, contact info@vrate.net>",'Content-Type':'application/json'}
+vrate_headers = {"x-api-key":"UhS51aGn0K34JcGWiWnJ3azcFS8hAdiV8gjdv7wH",'Content-Type':'application/json'}
 
 if __name__ == "__main__":
     #***** Analyze an image on a public url and print result ******
