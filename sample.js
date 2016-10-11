@@ -22,7 +22,7 @@ var options = {
     url: 'https://api2.vrate.net/nudityrating"',
     headers: {
        'Content-Type': 'application/json',
-        "X-Auth":"<use authorization key, contact info@vrate.net>"
+        "x-api-key":"UhS51aGn0K34JcGWiWnJ3azcFS8hAdiV8gjdv7wH"
     },
     json: USER_DATA
 
